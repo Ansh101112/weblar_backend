@@ -1,0 +1,52 @@
+# Node modules
+/node_modules/
+
+# Next.js build output
+.next/
+
+# Production build output
+out/
+
+# Log files
+*.log
+
+# Dependency directories
+/node_modules/
+/pnpm-lock.yaml
+
+# TypeScript files (if using TypeScript)
+*.tsbuildinfo
+
+# Next.js cache
+.cache/
+
+# .env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Yarn & npm lock files
+yarn.lock
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated files from build scripts
+dist/
+coverage/
+
+# React Native (if applicable)
+.expo/
+
+# Miscellaneous files to exclude
+*.tgz
+*.bak
+*.swp
